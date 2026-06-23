@@ -1,0 +1,6 @@
+{
+  "name": "Smart VMS",
+  "description": "Smart Office & Campus Companion for Visitor Registration, Photo Captures, Host Approvals, and Attendance logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
